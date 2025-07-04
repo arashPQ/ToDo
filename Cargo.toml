@@ -1,0 +1,8 @@
+[package]
+name = "ToDo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ncurses = "6.0.1"
+termion = "4.0.5"
