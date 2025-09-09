@@ -18,3 +18,13 @@ $ cd ToDo
 
 $ cargo run TODO
 ```
+
+## Commands
+
+| Command | Description |
+| --- | --- |
+| `q` | quit |
+| `u` | up in list |
+| `d` | down in list  |
+| `\t (Tab)` | Change Tab between ToDo an Done |
+| `\n (Enter)` | Change Task status to Done or Remove from Dones |
